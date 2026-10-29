@@ -1,0 +1,6 @@
+{
+  "name": "Sonora - Reproductor Musical Offline & YouTube",
+  "description": "Reproductor de música estilo Spotify optimizado para mínimo consumo de batería, reproducción de YouTube en segundo plano y descargas offline en alta fidelidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
